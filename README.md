@@ -8,9 +8,9 @@ REST-Rant allows users to browse and review restaurants. Users can view a list o
 
 ### Setup
 
-•	First, you'll need a Postgres database to connect to. Follow instructions here to setup the database and save credentials for the next step.
+- First, you'll need a Postgres database to connect to. Follow instructions here to setup the database and save credentials for the next step.
 
-•	Next create a `.env` file inside of `backend`. It will need to contain the following environment variables (change the values for the database to match what you defined in the previous step)
+- Next create a `.env` file inside of `backend`. It will need to contain the following environment variables (change the values for the database to match what you defined in the previous step)
 ```
 PORT=5000
 DB_USERNAME=rest_rant_user
@@ -26,9 +26,9 @@ Finally, in separate terminals, run `npm start` in each folder so that the API a
 
 ### Technologies :
 
-•	Frontend: React
-•	Backend: Node.js, Express
-•	Database: PostgreSQL
+- Frontend: React
+- Backend: Node.js, Express
+- Database: PostgreSQL
 
 ### API Endpoints(http://localhost:5000)
 | Method | Path                                 | Purpose                                   |
@@ -55,9 +55,9 @@ Finally, in separate terminals, run `npm start` in each folder so that the API a
 
 ### Coding Standards
 
-•	Follow consistent coding standards throughout the project.
-•	Ensure code readability and maintainability.
-•	Document code appropriately to facilitate understanding.
+- Follow consistent coding standards throughout the project.
+- Ensure code readability and maintainability.
+- Document code appropriately to facilitate understanding.
 
 ### Contributions
 
@@ -72,8 +72,8 @@ Contributions to REST-Rant are welcome! To contribute:
 
 There are currently no persistent bugs in the application. However, here are some features that we plan to implement in the future:
 
-•	User authentication and authorization
-•	Sorting and filtering of places
-•	Improved user interface and design enhancements
+- User authentication and authorization
+- Sorting and filtering of places
+- Improved user interface and design enhancements
 
 Feel free to open new issues for any bugs or feature requests you encounter. We appreciate your feedback!
